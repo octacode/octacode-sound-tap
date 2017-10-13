@@ -1,2 +1,2 @@
 # octacode-sound-tap
-Love this readme too
+Used paper.js, howler.js and jQuery.
